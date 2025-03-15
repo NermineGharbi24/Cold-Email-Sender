@@ -4,7 +4,7 @@
   <img src="/logo.png" alt="Cold Email Sender Logo" width="400"/>
 </p>
 
-A Python application designed to automate and streamline the process of sending personalized cold emails with attachments to multiple recipients. Perfect for job applications, networking, or business outreach.
+A Python application designed to automate and streamline the process of sending personalized cold emails with attachments to multiple recipients. Perfect for job applications, networking, or business outreach. Currenlly this project only work by test Users only (max 100) till the verification comes from google. It will get updated later. 
 
 ## 🚀 Key Features
 

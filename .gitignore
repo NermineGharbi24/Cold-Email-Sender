@@ -2,14 +2,13 @@
 venv/
 
 # # Sensitive data folders
-# data/
-# attachments/
 logs/
-
-# Individual sensitive files
-*.xlsx
-*.pdf
-
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+attachments/*
+!attachments/.gitkeep
 # Credentials
 credentials.json
 token.json
