@@ -1,6 +1,6 @@
 # Cold Email Sender (NO AI)
 
-<img src="/api/placeholder/200/150" alt="Cold Email Sender Logo" align="right" width="150"/>
+<img src="Cold_Mail_Sender\logo.png" alt="Cold Email Sender Logo" align="right" width="150"/>
 
 A Python application designed to automate and streamline the process of sending personalized cold emails with attachments to multiple recipients. Perfect for job applications, networking, or business outreach.
 
@@ -17,7 +17,6 @@ A Python application designed to automate and streamline the process of sending 
 
 - Python 3.8+
 - Gmail account
-- Internet connection
 
 ## 🛠️ Installation
 
