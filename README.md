@@ -53,7 +53,8 @@ A Python application designed to automate and streamline the process of sending 
 1. **Email Data Setup**:
    - Create `data/contacts.xlsx` with a column named "Email" containing recipient addresses
    - Place your resume (`resume.pdf`) and cover letter (`cover_letter.pdf`) in `data/attachments/`
-
+    -Create `logs/email_log.txt`
+    
 2. **Google OAuth Setup**:
    - Go to [Google Cloud Console](https://console.cloud.google.com/)
    - Create a new project and enable the Gmail API
