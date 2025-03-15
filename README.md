@@ -4,7 +4,7 @@
   <img src="/logo.png" alt="Cold Email Sender Logo" width="400"/>
 </p>
 
-A Python application designed to automate and streamline the process of sending personalized cold emails with attachments to multiple recipients. Perfect for job applications, networking, or business outreach. Currenlly this project only work by test Users only (max 100) till the verification comes from google. It will get updated later. 
+A Python application designed to automate and streamline the process of sending personalized cold emails with attachments to multiple recipients. Perfect for job applications, networking, or business outreach. Currenlly this project only work by test Users only (max 100), contact me if you want me to add you as a test user. This is only temporary till verification comes from google.The project will get updated later. 
 
 ## 🚀 Key Features
 
@@ -54,7 +54,7 @@ A Python application designed to automate and streamline the process of sending 
    - Create `data/contacts.xlsx` with a column named "Email" containing recipient addresses
    - Place your resume (`resume.pdf`) and cover letter (`cover_letter.pdf`) in `data/attachments/`
     -Create `logs/email_log.txt`
-    
+
 2. **Google OAuth Setup**:
    - Go to [Google Cloud Console](https://console.cloud.google.com/)
    - Create a new project and enable the Gmail API
