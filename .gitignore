@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+
+# # Sensitive data folders
+# data/
+# attachments/
+logs/
+
+# Individual sensitive files
+*.xlsx
+*.pdf
+
+# Credentials
+credentials.json
+token.json
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# System-specific files
+.DS_Store
+Thumbs.db
